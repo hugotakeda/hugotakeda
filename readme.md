@@ -109,13 +109,13 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img 
         alt="GitHub Stats"
-        height="150px" 
-        src="https://github-readme-stats.vercel.app/api?username=hugotakeda&show_icons=true&theme=dark" 
+        height="183px" 
+        src="https://github-readme-stats.vercel.app/api?username=detestably&show_icons=true&theme=dark" 
     />
     <img 
         alt="GitHub Stats"
-        height="150px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
+        height="183px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=detestably&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
     />
 </div>
 
