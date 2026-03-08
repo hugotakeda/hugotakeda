@@ -1,5 +1,5 @@
 
-**`Desenvolvedor Back-End`**
+**`Full Stack Developer`**
 
 <p align="left">
     <a href="https://www.youtube.com/@detestably?sub_confirmation=1">
