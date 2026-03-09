@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/pin/?username=hugotakeda&repo=github-readme-stats)](https://github.com/hugotakeda/github-readme-stats)" height="150" alt="stats graph"  />
+  <img src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)" height="150" alt="stats graph"  />
   <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda)](https://github.com/hugotakeda/github-readme-stats)"  />
 </div>
 
