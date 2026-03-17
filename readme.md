@@ -1,15 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hugotakeda&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/hugotakeda">
-  <img src="https://streak-stats.demolab.com?user=hugotakeda&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=hugotakeda&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
