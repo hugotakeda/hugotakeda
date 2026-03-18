@@ -7,6 +7,13 @@
 ###
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugotakeda/NOME_DO_SEU_REPOSITORIO/main/aquarium.svg">
+  <img alt="Meu Aquário de Commits" src="https://raw.githubusercontent.com/hugotakeda/NOME_DO_SEU_REPOSITORIO/main/aquarium.svg">
+</picture>
+
+###
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugotakeda/hugotakeda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugotakeda/hugotakeda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugotakeda/hugotakeda/output/pacman-contribution-graph.svg">
