@@ -7,8 +7,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugotakeda/NOME_DO_SEU_REPOSITORIO/main/aquarium.svg">
-  <img alt="Meu Aquário de Commits" src="https://raw.githubusercontent.com/hugotakeda/NOME_DO_SEU_REPOSITORIO/main/aquarium.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugotakeda/GithubAquarium/main/aquarium.svg">
+  <img alt="Meu Aquário de Commits" src="https://raw.githubusercontent.com/hugotakeda/GithubAquarium/main/aquarium.svg">
 </picture>
 
 ###
