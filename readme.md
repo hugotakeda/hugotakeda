@@ -12,17 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" />
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugotakeda/hugotakeda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugotakeda/hugotakeda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugotakeda/hugotakeda/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-### 🧬 Meu Ritmo de Energia (Commits)
+### 
 
 <picture>
   <img
