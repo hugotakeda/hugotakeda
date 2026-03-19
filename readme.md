@@ -7,12 +7,12 @@
 ###
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugotakeda&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats" />
+      <td valign="top">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugotakeda&show_icons=true&theme=dark&locale=pt-br&hide_border=false" alt="GitHub Stats" />
       </td>
-      <td>
+      <td valign="top">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=false" alt="Top Langs" />
       </td>
     </tr>
