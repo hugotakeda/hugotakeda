@@ -14,7 +14,7 @@
     />
     <img 
         alt="GitHub Stats"
-        height="195px" 
+        height="200px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
     />
 </div>
