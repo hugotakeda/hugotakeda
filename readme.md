@@ -6,7 +6,7 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: center; justify-content: center; align-items: center; gap: 20px;">
     <img 
         alt="GitHub Stats"
         height="183px" 
@@ -14,7 +14,7 @@
     />
     <img 
         alt="GitHub Stats"
-        height="183px" 
+        height="195px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotakeda&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
     />
 </div>
