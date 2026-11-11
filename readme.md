@@ -3,5 +3,9 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/hugotakeda/GitHub-Stats-Card/main/dist/lines-of-code.svg" alt="Lines of Code: net changes, added and removed lines" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/hugotakeda/Energy-Rhythm-Contribution-Graph/main/dist/energy-rhythm.svg?v=1" />
 </p>
